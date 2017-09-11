@@ -9,6 +9,8 @@
 
 封装的意义，在于明确标识出允许外部使用的所有成员函数和数据项，或者叫应用程序编程接口(***API***)(*Application Programming Interface*).
 
+
+
 **继承**(*Inheritance*):子类
 
 **多态**(*Polymorphism*):有共同父类的不同类的对象,对于同一操作做出的反应.
