@@ -1,0 +1,7 @@
+Spring 管理持久层mapper
+
+Spring管理业务层service
+
+Spring进行事务控制
+
+Spring管理Handler,Handler可以调用Service接口.
