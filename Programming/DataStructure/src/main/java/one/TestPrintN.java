@@ -38,7 +38,7 @@ public class TestPrintN {
         int count = 0;
         if (N != 0) {
             printNByrecursion(N - 1);
-            count++;
+                count++;
         }
     }
 }
