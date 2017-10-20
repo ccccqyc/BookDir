@@ -4,9 +4,9 @@
 
 课程:[数据结构](http://www.icourse163.org/learn/ZJU-93001?tid=1002261004#/learn/announce)
 
-授课:浙江大学 陈越 
+授课:浙江大学 陈越 何钦铭
 
-本文档的**课程笔记**总目录
+本文档是**课程笔记**总目录
 
 对应的编程练习在Programming文件夹中的[DataStructure](../../Programming/DataStructure/README.md)
 
@@ -23,4 +23,12 @@
 ---
 
 第二讲
+
+[线性表](线性表.md)
+
+[堆栈](堆栈.md)
+
+[队列](队列.md)
+
+---
 

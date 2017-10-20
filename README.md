@@ -1,7 +1,9 @@
 BookDir 是一个综合学习目录.
 
-子目录Programming是学习计算机书籍,按照书籍章节写演示程序,以及练习题目的目录.
+[Books](Books/README.md)是计算机书籍,Java 类等等的笔记
 
-子目录Vocabulary是看英文原版书籍过程中记录专业词汇,以及不了解的词汇的目录.
+[Programming](Programming/README.md) 目录Books, Mooc相应的演示程序,以及练习题目的代码.
 
-子目录
+[Mooc](Mooc/README.md) 几大学习网站的慕课学习过程中的笔记.
+
+[Vocabulary](Vocabulary/README.md) 是Books Mooc,英文原版书籍过程中记录专业词汇,以及不了解的词汇的目录.
